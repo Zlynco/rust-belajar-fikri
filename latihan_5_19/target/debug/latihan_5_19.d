@@ -1,0 +1,1 @@
+D:\project\rust-belajar\latihan_5_19\target\debug\latihan_5_19.exe: D:\project\rust-belajar\latihan_5_19\src\collection.rs D:\project\rust-belajar\latihan_5_19\src\err_handling.rs D:\project\rust-belajar\latihan_5_19\src\main.rs
