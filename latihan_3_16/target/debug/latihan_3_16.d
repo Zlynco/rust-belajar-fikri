@@ -1,0 +1,1 @@
+D:\project\rust-belajar\latihan_3_16\target\debug\latihan_3_16.exe: D:\project\rust-belajar\latihan_3_16\src\borrowing.rs D:\project\rust-belajar\latihan_3_16\src\lifetime.rs D:\project\rust-belajar\latihan_3_16\src\main.rs D:\project\rust-belajar\latihan_3_16\src\ownership.rs D:\project\rust-belajar\latihan_3_16\src\string_vs_str.rs
