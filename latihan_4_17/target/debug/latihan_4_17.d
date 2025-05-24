@@ -1,0 +1,1 @@
+D:\project\rust-belajar\latihan_4_17\target\debug\latihan_4_17.exe: D:\project\rust-belajar\latihan_4_17\src\enums.rs D:\project\rust-belajar\latihan_4_17\src\main.rs D:\project\rust-belajar\latihan_4_17\src\option_result.rs D:\project\rust-belajar\latihan_4_17\src\struktur.rs
